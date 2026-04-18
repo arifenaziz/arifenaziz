@@ -10,7 +10,7 @@ I am a product-focused engineer specialized in building high-performance web app
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[PureBattles](https://purebattles.com)** | A 3D historical visualization platform featuring interactive environments and complex data sets. | Three.js, React, Laravel |
-| **[Muslim Tab](https://muslimtab.net)** | A productivity dashboard for browser tabs. **1,700+ active users** and growing. | WXT, React, Vite |
+| **[Muslim Tab](https://muslimtab.net)** | A productivity dashboard for browser tabs. **2,000+ active users** and growing. | WXT, React, Vite |
 | **[The Yolked](https://github.com/arifenaziz/the-yolked)** | A physics-based productivity extension with high-fidelity animations. | WXT, Framer Motion |
 
 ---
@@ -40,10 +40,10 @@ I am a product-focused engineer specialized in building high-performance web app
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/shahriyedarifen](https://linkedin.com/in/shahriyedarifen)
-- **Twitter/X:** [@shahriyedarifen](https://x.com/shahriyedarifen)
-- **Email:** hello@stackninjas.io
-- **Portfolio:** [YourLinkHere.com]
+- **LinkedIn:** [linkedin.com/in/fahimarifen](https://linkedin.com/in/fahimarifen)
+- **Twitter/X:** [@ArifenAziz](https://x.com/ArifenAziz)
+- **Email:** arifen@purebattles.com
+- **Portfolio:** purebattles.com
 
 ---
 <p align="center">
